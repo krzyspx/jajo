@@ -1,0 +1,2 @@
+# jajo
+program dla jajowara
